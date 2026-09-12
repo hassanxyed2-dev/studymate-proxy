@@ -1,0 +1,6 @@
+{
+  "name": "studymate-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serverless proxy that holds the OpenAI and Gemini keys for the StudyMate Android app"
+}
